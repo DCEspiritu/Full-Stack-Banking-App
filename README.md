@@ -1,3 +1,25 @@
+# Full-Stack Banking App
+
+## Description of the project:
+
+This project demonstrates a full-stack application.
+
+## Roadmap of future improvements:
+
+There are many improvements needed in this application. The UI, for example, is very important to me and I would like to make it much more user-friendly and pleaseing to the eyes. There is a lot of empty space on the page and there is a lack of color, pictures, background, etc. I would also like to add different types of users such as basic users and admin users and give them different permissions. I would also like to add different functionality such as transfers between accounts, check deposits, different bank account access such as checking and savings, and many other typical banking functions.
+
+## License information:
+
+MIT License
+
+Copyright (c) 2023 by Drianne Espiritu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

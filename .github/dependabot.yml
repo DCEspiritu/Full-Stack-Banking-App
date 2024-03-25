@@ -1,0 +1,7 @@
+version: 2
+updates:
+  - package-ecosystem: "npm" # See documentation for other package ecosystems
+    directory: "/" # Location of package.json, and other configuration files
+    schedule:
+      interval: "weekly" # "daily", "weekly", "monthly"
+    open-pull-requests-limit: 10
